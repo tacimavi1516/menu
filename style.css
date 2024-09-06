@@ -9,4 +9,8 @@
  h1 {
     background-color: white;
  }      
- 
+ :root {
+   --cor-de-fundo: #EBECEE;
+   --branco: #ffffff;
+   --laranja: #eb9b00;
+ }
