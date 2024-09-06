@@ -60,7 +60,14 @@
     border-radius: 0 0 20px 20px;
     background-color: var(--branco);
 }
+
+
 .lista-menu__titulo,
 .lista-menu__item {
-    padding: lem;
+    padding: 1em;
+}
+
+.lista-menu__titulo {
+    color: var(--laranja);
+    font-weight: 700;
 }
