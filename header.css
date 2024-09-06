@@ -42,11 +42,6 @@
     padding: lem;
     background-color: var(--branco);
 }
-:root {
-    --cor-de-fundo: #ebecee;
-    --branco: #ffffff;
-    --laranja: #eb9b00;
-}
 .lista-menu__titulo {
     color: var(--laranja);
 }
