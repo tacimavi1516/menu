@@ -47,3 +47,6 @@
     --branco: #ffffff;
     --laranja: #eb9b00;
 }
+.lista-menu__titulo {
+    color: var(--laranja);
+}
